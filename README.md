@@ -1,7 +1,6 @@
 # neutralnetensorflow
 
 **Обучаем нейросеть распознавать объекты на фото. TensorFlow+ Streamlit**
-![Uploading IMAGE 2023-10-29 15:58:54.jpg…]()
 
 
 [https://www.youtube.com/watch?v=pNrYjuKo8E8&t=258s](https://www.youtube.com/watch?v=pNrYjuKo8E8&t=258s)
